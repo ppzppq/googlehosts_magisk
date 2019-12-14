@@ -1,0 +1,1 @@
+curl -o system/etc/hosts "https://github.com/googlehosts/hosts/raw/master/hosts-files/hosts"
